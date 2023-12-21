@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></i> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 <!--
 **kotyasmol/kotyasmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
