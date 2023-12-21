@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Kotya👋
 🌱 I’m currently learning;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "c#" width="40" height = "40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "c++" width="40" height = "40"/>
 
