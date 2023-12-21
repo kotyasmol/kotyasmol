@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "c#" width="40" height = "40"/>&nbsp <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "c++" width="40" height = "40"/>
+🌱 I’m currently learning;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "c#" width="40" height = "40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title = "c++" width="40" height = "40"/>
 
 <!--
 **kotyasmol/kotyasmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
