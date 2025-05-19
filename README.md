@@ -13,9 +13,9 @@
 
 ---
 
-<h3 align="center">🧰 Стек технологий</h3>
+<h3 align="left">Стек </h3>
 
-<p align="center">
+<p align="left">
   <!-- Языки программирования -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
